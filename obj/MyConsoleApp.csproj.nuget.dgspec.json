@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\LPUEx\\MyConsoleApp\\MyConsoleApp.csproj": {}
+    "c:\\Users\\hp\\LPUEx\\MyConsoleApp\\MyConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\LPUEx\\MyConsoleApp\\MyConsoleApp.csproj": {
+    "c:\\Users\\hp\\LPUEx\\MyConsoleApp\\MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\LPUEx\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectUniqueName": "c:\\Users\\hp\\LPUEx\\MyConsoleApp\\MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "C:\\Users\\hp\\LPUEx\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectPath": "c:\\Users\\hp\\LPUEx\\MyConsoleApp\\MyConsoleApp.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\LPUEx\\MyConsoleApp\\obj\\",
+        "outputPath": "c:\\Users\\hp\\LPUEx\\MyConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
